@@ -7,5 +7,7 @@ Screenshots
 --------
 
 ####sH Clathrate Hydrate Crystal
-![sH Clathrate Crystal](https://github.com/alexal14/Clathrate-Monte-Carlo-Simulation/img/clathrate_h.gif)
+![sH Clathrate Crystal](https://github.com/alexal14/Clathrate-Monte-Carlo-Simulation/tree/master/Monte-Carlo-Simulation/img/clathrate_h.gif)
+
+
 
